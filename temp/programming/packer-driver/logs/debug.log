@@ -1,0 +1,157 @@
+debug: Thu, 15 Aug 2024 09:03:13 GMT
+debug: Project: /Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master
+debug: Targets: editor,preview
+debug: Packer deriver version file lost or format incorrect: Error: ENOENT: no such file or directory, open '/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/temp/programming/packer-driver/VERSION'
+debug: Clearing out the targets...
+debug: Engine path: /Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/temp/programming/packer-driver/targets/editor/main-record.json'
+debug: Loading cache costs 0.4447159767150879ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/temp/programming/packer-driver/targets/preview/main-record.json'
+debug: Loading cache costs 0.6402590274810791ms.
+debug: Sync engine features: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 10.852550029754639ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 9
+Feature changed: false
+debug: Target(editor) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/SplashCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/SplashCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/SplashCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/SplashCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/SplashCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts as cce:/internal/code-quality/cr.mjs.
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts as cce:/internal/x/cc.
+debug: Resolve ./BirdCtrl from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/PiplineCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/PiplineCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/PiplineCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/PiplineCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/PiplineCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts as cce:/internal/x/cc.
+debug: Resolve ./BackgroundCtrl from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts.
+debug: Resolve ./BulletCtrl from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts.
+debug: Resolve ./EnemyCtrl from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray/RayTestCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray/RayTestCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray/RayTestCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray/RayTestCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray/RayTestCtrl.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 1095.553200006485ms.
+debug: Target(preview) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/SplashCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/SplashCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/SplashCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/SplashCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/SplashCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts as cce:/internal/code-quality/cr.mjs.
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts as cce:/internal/x/cc.
+debug: Resolve ./BirdCtrl from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/PiplineCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/PiplineCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/PiplineCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/PiplineCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/PiplineCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts as cce:/internal/x/cc.
+debug: Resolve ./BackgroundCtrl from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts.
+debug: Resolve ./BulletCtrl from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts.
+debug: Resolve ./EnemyCtrl from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray/RayTestCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray/RayTestCtrl.ts.
+debug: Inspect file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray/RayTestCtrl.ts
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray/RayTestCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray/RayTestCtrl.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 768.9685831069946ms.

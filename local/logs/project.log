@@ -1,0 +1,121 @@
+2024-08-15T09:02:54.984Z - log: [Package] menu@1.0.0 enable
+2024-08-15T09:02:54.987Z - log: [Package] profile@1.0.0 enable
+2024-08-15T09:02:55.001Z - log: [Package] project@1.0.2 enable
+2024-08-15T09:02:55.008Z - log: [Package] messages@1.0.0 enable
+2024-08-15T09:02:55.014Z - log: [Package] program@1.0.0 enable
+2024-08-15T09:02:55.021Z - log: [Package] tester@1.0.0 enable
+2024-08-15T09:02:55.028Z - log: [Package] preferences@1.0.0 enable
+2024-08-15T09:02:55.894Z - log: Setup mods mgr.: 404.285ms
+2024-08-15T09:02:55.897Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2024-08-15T09:02:55.906Z - verbose: [Engine] QuickCompile engine (796ms)
+2024-08-15T09:02:55.910Z - log: [Package] engine@1.0.6 enable
+2024-08-15T09:02:57.053Z - log: [Package] programming@1.0.0 enable
+2024-08-15T09:02:57.377Z - log: [Package] device@1.0.1 enable
+2024-08-15T09:02:57.407Z - log: [Package] ui-kit@1.0.1 enable
+2024-08-15T09:02:57.437Z - log: [Package] engine-extends@1.0.0 enable
+2024-08-15T09:02:57.520Z - log: [Package] asset-db@1.0.0 enable
+2024-08-15T09:02:57.585Z - log: [Package] scene@1.0.0 enable
+2024-08-15T09:02:57.830Z - log: [Package] server@1.0.0 enable
+2024-08-15T09:02:57.873Z - log: [Package] utils@1.0.0 enable
+2024-08-15T09:03:03.339Z - log: [Package] preview@1.0.1 enable
+2024-08-15T09:03:03.390Z - log: [Package] animator@1.0.0 enable
+2024-08-15T09:03:04.724Z - log: Profile changed: builder (log.level: 4)
+2024-08-15T09:03:04.735Z - log: [Package] builder@1.3.2 enable
+2024-08-15T09:03:04.785Z - log: [Package] shortcuts@1.0.1 enable
+2024-08-15T09:03:04.833Z - log: [Package] animation-graph@1.0.0 enable
+2024-08-15T09:03:04.873Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2024-08-15T09:03:04.898Z - log: [Package] channel-upload-tools@1.0.0 enable
+2024-08-15T09:03:04.932Z - log: [Package] about@1.0.0 enable
+2024-08-15T09:03:04.980Z - log: [Package] assets@1.0.0 enable
+2024-08-15T09:03:05.025Z - log: [Package] console@1.0.0 enable
+2024-08-15T09:03:05.284Z - log: [Package] extension@3.0.16 enable
+2024-08-15T09:03:05.338Z - log: [Package] hierarchy@1.0.0 enable
+2024-08-15T09:03:05.398Z - log: [Package] inspector@1.0.0 enable
+2024-08-15T09:03:05.456Z - log: [Package] lightmap@1.0.4 enable
+2024-08-15T09:03:05.554Z - log: [Package] node-library@1.0.1 enable
+2024-08-15T09:03:05.600Z - log: [Package] package-asset@1.0.0 enable
+2024-08-15T09:03:05.654Z - log: [Package] process@1.0.0 enable
+2024-08-15T09:03:05.728Z - log: [Package] reference-image@1.0.0 enable
+2024-08-15T09:03:05.769Z - log: [Package] alipay-mini-game@1.0.0 enable
+2024-08-15T09:03:05.795Z - log: [Package] android@1.0.0 enable
+2024-08-15T09:03:05.820Z - log: [Package] baidu-mini-game@1.0.0 enable
+2024-08-15T09:03:05.844Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2024-08-15T09:03:05.869Z - log: [Package] cocos-play@1.0.0 enable
+2024-08-15T09:03:05.897Z - log: [Package] huawei-agc@1.0.0 enable
+2024-08-15T09:03:05.926Z - log: [Package] huawei-quick-game@1.0.0 enable
+2024-08-15T09:03:06.020Z - log: [Package] ios@1.0.0 enable
+2024-08-15T09:03:06.045Z - log: [Package] ios-app-clip@1.0.0 enable
+2024-08-15T09:03:06.068Z - log: [Package] link-sure@1.0.0 enable
+2024-08-15T09:03:06.096Z - log: [Package] linux@1.0.0 enable
+2024-08-15T09:03:06.121Z - log: [Package] mac@1.0.0 enable
+2024-08-15T09:03:06.276Z - log: [Package] native@1.0.0 enable
+2024-08-15T09:03:06.302Z - log: [Package] ohos@1.0.0 enable
+2024-08-15T09:03:06.329Z - log: [Package] open-harmonyos@1.0.0 enable
+2024-08-15T09:03:06.354Z - log: [Package] oppo-mini-game@1.0.0 enable
+2024-08-15T09:03:06.383Z - log: [Package] qtt@1.0.0 enable
+2024-08-15T09:03:06.410Z - log: [Package] vivo-mini-game@1.0.0 enable
+2024-08-15T09:03:06.456Z - log: [Package] web-desktop@1.0.0 enable
+2024-08-15T09:03:06.566Z - log: [Package] web-mobile@1.0.0 enable
+2024-08-15T09:03:06.646Z - log: [Package] wechatgame@1.0.1 enable
+2024-08-15T09:03:06.698Z - log: [Package] windows@1.0.0 enable
+2024-08-15T09:03:06.725Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2024-08-15T09:03:07.157Z - log: [Package] cocos-service@3.0.3 enable
+2024-08-15T09:03:07.206Z - verbose: [AssetDB] Require engine code (2499ms)
+2024-08-15T09:03:07.229Z - log: [Package] importer@1.0.0 enable
+2024-08-15T09:03:07.663Z - log: [Im-plugin] Check im-plugin version.
+2024-08-15T09:03:07.680Z - log: [Package] im-plugin@3.0.8 enable
+2024-08-15T09:03:09.996Z - log: [Im-plugin] No online info of im-plugin.
+2024-08-15T09:03:21.583Z - verbose: [Scene] Require engine code (1ms)
+2024-08-15T09:03:21.584Z - verbose: [Scene] Startup engine (1ms)
+2024-08-15T09:03:21.622Z - log: [Scene] Cocos Creator v3.5.2
+2024-08-15T09:03:21.987Z - verbose: [Scene] Open engine (403ms)
+2024-08-15T09:03:21.988Z - verbose: [Scene] Configure engine (0ms)
+2024-08-15T09:03:21.721Z - info: [Scene] Forward render pipeline initialized.
+2024-08-15T09:03:44.197Z - error: [Window] [Vue warn]: Error in render: "TypeError: Cannot read property 'top' of null"
+
+found in
+
+---> <PreviewRow>
+       <Root>
+2024-08-15T09:03:44.197Z - error: [Window] Cannot read property 'top' of nullTypeError: Cannot read property 'top' of null
+    at VueComponent.offsetHeight (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/vm/components/preview-row.ccc:1:2188)
+    at Watcher.get (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:4472:27)
+    at Watcher.evaluate (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:4577:23)
+    at VueComponent.computedGetter [as offsetHeight] (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:4826:19)
+    at VueComponent.previewStyle (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/vm/components/preview-row.ccc:1:1898)
+    at Watcher.get (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:4472:27)
+    at Watcher.evaluate (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:4577:23)
+    at Proxy.computedGetter (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:4826:19)
+    at Proxy.eval (eval at createFunction (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:11628:14), <anonymous>:3:65)
+    at VueComponent._render (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:3545:24)
+2024-08-15T09:03:44.199Z - error: [Window] [Vue warn]: Error in render: "TypeError: Cannot read property 'top' of null"
+
+found in
+
+---> <PreviewRow>
+       <Root>
+2024-08-15T09:03:44.199Z - error: [Window] Cannot read property 'top' of nullTypeError: Cannot read property 'top' of null
+    at VueComponent.offsetHeight (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/vm/components/preview-row.ccc:1:2188)
+    at Watcher.get (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:4472:27)
+    at Watcher.evaluate (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:4577:23)
+    at VueComponent.computedGetter [as offsetHeight] (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:4826:19)
+    at VueComponent.previewStyle (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/vm/components/preview-row.ccc:1:1898)
+    at Watcher.get (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:4472:27)
+    at Watcher.evaluate (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:4577:23)
+    at Proxy.computedGetter (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:4826:19)
+    at Proxy.eval (eval at createFunction (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:11628:14), <anonymous>:3:65)
+    at VueComponent._render (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:3545:24)
+2024-08-15T09:03:44.213Z - error: [Window] Cannot read property 'top' of nullTypeError: Cannot read property 'top' of null
+    at /Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/share/animation-editor.ccc:1:45376
+    at Array.forEach (<anonymous>)
+    at AnimationEditor.calcDisplayNodes (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/share/animation-editor.ccc:1:45133)
+    at AnimationEditor.clearClips (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/share/animation-editor.ccc:1:42623)
+    at AnimationEditor.updateClips (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/share/animation-editor.ccc:1:40997)
+    at AnimationEditor.update (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/share/animation-editor.ccc:1:29242)
+2024-08-15T09:03:46.515Z - error: [Window] Cannot read property 'top' of nullTypeError: Cannot read property 'top' of null
+    at /Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/share/animation-editor.ccc:1:45376
+    at Array.forEach (<anonymous>)
+    at AnimationEditor.calcDisplayNodes (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/share/animation-editor.ccc:1:45133)
+    at AnimationEditor.clearClips (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/share/animation-editor.ccc:1:42623)
+    at AnimationEditor.updateClips (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/share/animation-editor.ccc:1:40997)
+    at AnimationEditor.update (/Applications/Cocos/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/animator/dist/panel/share/animation-editor.ccc:1:29242)

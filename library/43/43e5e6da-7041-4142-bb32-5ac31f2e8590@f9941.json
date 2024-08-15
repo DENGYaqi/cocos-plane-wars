@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bird0_0",
+    "atlas": "",
+    "rect": {
+      "x": 6,
+      "y": 13,
+      "width": 34,
+      "height": 24
+    },
+    "offset": {
+      "x": -1,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 48,
+      "height": 48
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "43e5e6da-7041-4142-bb32-5ac31f2e8590@6c48a",
+    "packable": true
+  }
+}

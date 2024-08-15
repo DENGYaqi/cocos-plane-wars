@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pipe_up",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 52,
+      "height": 320
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 52,
+      "height": 320
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5d94d5c3-5fae-44a2-8446-73622763ec1c@6c48a",
+    "packable": true
+  }
+}

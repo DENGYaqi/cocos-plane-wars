@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pipe_down",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 52,
+      "height": 320
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 52,
+      "height": 320
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2e15ac53-3e70-48e1-9ef9-18066a66a80b@6c48a",
+    "packable": true
+  }
+}

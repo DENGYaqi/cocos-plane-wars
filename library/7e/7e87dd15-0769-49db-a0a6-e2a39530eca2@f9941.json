@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero1_die",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 1,
+      "width": 98,
+      "height": 123
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 98,
+      "height": 124
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "7e87dd15-0769-49db-a0a6-e2a39530eca2@6c48a",
+    "packable": true
+  }
+}

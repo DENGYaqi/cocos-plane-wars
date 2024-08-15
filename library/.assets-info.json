@@ -1,0 +1,306 @@
+{
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scenes": {
+    "time": 1656556461000,
+    "uuid": "b5346161-a3ff-4810-974c-0e273de85112",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts": {
+    "time": 1723711362742.3333,
+    "uuid": "17005e02-1726-4156-ba8b-b85be86bd312",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Texture": {
+    "time": 1656556461000,
+    "uuid": "5cbe74ee-7d94-4030-b578-7ed0c4257ec2",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources": {
+    "time": 1656556461000,
+    "uuid": "0c85013b-99a3-46ab-806f-cfdd54ec9d8d",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scenes/BirdScene.scene": {
+    "time": 1656556461000,
+    "uuid": "fd49e117-8c84-4d11-9bff-a454bbf6ed4e",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scenes/GameScene.scene": {
+    "time": 1656556461000,
+    "uuid": "69ed7f17-ec3f-47b5-b7ae-ef0e84bfc59b",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scenes/RayScene.scene": {
+    "time": 1656556461000,
+    "uuid": "d02da53c-8d3e-4414-a9a7-854476cf450e",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scenes/SplashScene.scene": {
+    "time": 1656556461000,
+    "uuid": "c22bc5c2-33e5-40f7-827b-0d1eb09ceef6",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/SplashCtrl.ts": {
+    "time": 1656556461000,
+    "uuid": "f249da86-0f20-4835-92ff-ada570ceff8b",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird": {
+    "time": 1656556461000,
+    "uuid": "5b1efa38-4344-4dc0-8cf6-14ea4f9df460",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game": {
+    "time": 1656556461000,
+    "uuid": "9a3d7192-a31e-4e26-afea-1890f86059eb",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray": {
+    "time": 1656556461000,
+    "uuid": "496647c0-b672-425d-9e06-e38868891f1a",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Texture/bird.anim": {
+    "time": 1656556461000,
+    "uuid": "0dc1e4d1-8721-4686-acd0-af2d4ffc319d",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Texture/bullet.prefab": {
+    "time": 1656556461000,
+    "uuid": "7bbe803f-1282-440b-891f-a15858dc9e73",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Texture/enemy.prefab": {
+    "time": 1656556461000,
+    "uuid": "05b44755-fc4b-4893-ba35-ce46751e2436",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/background.png": {
+    "time": 1656556461000,
+    "uuid": "da2529d9-1fce-47b7-8471-36d949d5b665",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird": {
+    "time": 1656556461000,
+    "uuid": "cbfc96b0-5740-401c-8af9-5b28a120c4c9",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bullet1.png": {
+    "time": 1656556461000,
+    "uuid": "c8934c7a-0bc8-49b6-abcb-72fac8304387",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/enemy0.png": {
+    "time": 1656556461000,
+    "uuid": "449eae77-904a-4817-9857-7ad897e06174",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/enemy0_die.png": {
+    "time": 1656556461000,
+    "uuid": "3c771652-691e-480a-b850-1f6b11eadafc",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/hero1.png": {
+    "time": 1656556461000,
+    "uuid": "f9421e4f-cbee-4163-aae5-407301f2333a",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/hero1_die.png": {
+    "time": 1656556461000,
+    "uuid": "7e87dd15-0769-49db-a0a6-e2a39530eca2",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts": {
+    "time": 1656556461000,
+    "uuid": "c3840ad5-2d6f-4795-8750-d58a99735b99",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts": {
+    "time": 1656556461000,
+    "uuid": "a7727d4e-bcfa-4b61-98c0-ac72380d2955",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/PiplineCtrl.ts": {
+    "time": 1656556461000,
+    "uuid": "216b9275-b809-4646-a9ac-1cbb2b7e2315",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts": {
+    "time": 1656556461000,
+    "uuid": "276a4218-6c5d-42ea-b2b7-bbf8a404770d",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts": {
+    "time": 1656556461000,
+    "uuid": "ab6a5cd3-cd7c-4751-a318-8aa8109899e8",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts": {
+    "time": 1656556461000,
+    "uuid": "ea6a5e1a-b759-49e5-b334-6fb4a4108bf4",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts": {
+    "time": 1656556461000,
+    "uuid": "999cc471-5cec-4a48-a34a-8904a23f65aa",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray/RayTestCtrl.ts": {
+    "time": 1656556461000,
+    "uuid": "75279d88-d3b9-4a22-add9-18e8cd9f4ca2",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/bg_day.png": {
+    "time": 1656556461000,
+    "uuid": "56d7cdd1-3028-41be-960d-446d3558eac8",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/bird0_0.png": {
+    "time": 1656556461000,
+    "uuid": "43e5e6da-7041-4142-bb32-5ac31f2e8590",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/bird0_1.png": {
+    "time": 1656556461000,
+    "uuid": "3046e2d0-dfda-445a-ae05-1d186055ce91",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/bird0_2.png": {
+    "time": 1656556461000,
+    "uuid": "ee1585df-e726-42ab-8453-cf5ae2daf042",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/bird0_3.png": {
+    "time": 1656556461000,
+    "uuid": "7d8f23df-9c19-45a6-81ab-af7464298ca4",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/land.png": {
+    "time": 1656556461000,
+    "uuid": "2417e4ca-d385-4f33-b4bb-9a5471af4e53",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/pipe_down.png": {
+    "time": 1656556461000,
+    "uuid": "2e15ac53-3e70-48e1-9ef9-18066a66a80b",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/pipe_up.png": {
+    "time": 1656556461000,
+    "uuid": "5d94d5c3-5fae-44a2-8446-73622763ec1c",
+    "missing": false
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scenes.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Texture.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/SplashCtrl.ts.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scenes/BirdScene.scene.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scenes/SplashScene.scene.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scenes/RayScene.scene.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scenes/GameScene.scene.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Texture/bird.anim.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Texture/bullet.prefab.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Texture/enemy.prefab.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bullet1.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/enemy0.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdCtrl.ts.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/enemy0_die.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/BirdRollSFCtrl.ts.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/bird/PiplineCtrl.ts.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BackgroundCtrl.ts.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/BulletCtrl.ts.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/background.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/hero1.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/EnemyCtrl.ts.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/game/PlayerCtrl.ts.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/Scripts/ray/RayTestCtrl.ts.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/hero1_die.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/bird0_0.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/bird0_1.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/bird0_2.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/bg_day.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/bird0_3.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/land.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/pipe_down.png.meta": {
+    "time": 1656556461000
+  },
+  "/Users/dengyaqi/Desktop/CocosProject/cocos-plane-war-master/assets/resources/bird/pipe_up.png.meta": {
+    "time": 1656556461000
+  }
+}
