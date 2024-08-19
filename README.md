@@ -1,2 +1,2 @@
 # cocos-plane-wars
-Cocos Creator 3dx Plane Wars
+Cocos Creator 3dx Demos : Ray Detectio, Plane Wars, Flappy Bird.
